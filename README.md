@@ -1,4 +1,3 @@
-# HR-Analytics-PowerBI
 # 📊 Employee Attrition Analysis – Power BI Dashboard
 
 **What drives employees to leave a company?**  
